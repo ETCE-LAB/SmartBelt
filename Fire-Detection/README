@@ -110,4 +110,3 @@ NODE_ID = "ns=2;s=OPC_Daten.Anlage_ausschalten"  # OPC UA node for shutdown
 
 
 
-
