@@ -6,7 +6,7 @@ This project is a **Raspberry Pi-based smart fire detection system** that uses a
 - Activates a **buzzer** as a local warning
 - Sends a **shutdown signal to a PLC** using **OPC UA**
 
----
+----
 
 ## Features
 
