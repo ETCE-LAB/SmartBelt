@@ -1,22 +1,22 @@
 Line Detection using OpenCV
 
-📌 Overview
+Overview
 
 This project demonstrates how to detect lines in an image using OpenCV and NumPy in Python. The Jupyter Notebook processes an image step by step, including grayscale conversion, region-of-interest cropping, Gaussian Blur, edge detection with Canny, and line detection using the Hough Transform.
 
-🛠️ Required Libraries
+Required Libraries
 
 Make sure you have the necessary libraries installed before running the notebook. You can install them using:
 
 pip install opencv-python matplotlib numpy
 
-📂 Files
+Files
 
 LineDetection.ipynb → Jupyter Notebook containing the line detection steps.
 
 msg1033807294-27153.jpg → Example image used in the notebook.
 
-🚀 How to Run
+How to Run
 
 Open a terminal and navigate to the directory containing this project.
 
@@ -26,7 +26,7 @@ jupyter notebook LineDetection.ipynb
 
 Run each cell in order to see the image processing and line detection steps.
 
-📝 Steps in the Notebook
+Steps in the Notebook
 
 Read the Image: Load an image using OpenCV.
 
@@ -40,7 +40,7 @@ Edge Detection (Canny): Detects edges in the image.
 
 Hough Line Transform: Identifies straight lines.
 
-⚡ Experimentation
+Experimentation
 
 Try different images by replacing 'msg1033807294-27153.jpg' with your own image.
 
@@ -48,11 +48,11 @@ Adjust the Canny edge detection parameters for better results.
 
 Modify the ROI selection to focus on different areas.
 
-📌 Example Output
+Example Output
 
 The notebook visualizes each step with matplotlib, showing the processed images at different stages.
 
-🔗 References
+References
 
 OpenCV Documentation
 
